@@ -27,6 +27,7 @@ This dataset was taken from Kaggle.
 ---
 
 **Result**
+- Best model - LogisticRegression
 - **Precision:** 1.0  
 - **Recall:** 0.9583  
 - **F1-score:** 0.9787  
