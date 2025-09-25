@@ -27,9 +27,19 @@ This dataset was taken from Kaggle.
 ---
 
 **Result**
+- **Precision:** 1.0  
+- **Recall:** 0.9583  
+- **F1-score:** 0.9787  
+- **Accuracy:** 0.9825  
+- **Jaccard score:** 0.9583  
+**Confusion Matrix:**  
+[[66 0]
+[ 2 42]]
+- These results indicate that the model has high accuracy and reliably distinguishes between benign and malignant categories. The high recall value further confirms the model's sensitivity in detecting disease cases.And this result indicates that the model is highly reliable for integration into medical practice.
+- I found that : the size measurements in sick people are higher compared to those who are not sick
 
 ---
- 
+
 
 Contact me:  
 - Email: begimqulovquvonchbek53@gmail.com  
