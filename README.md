@@ -15,7 +15,7 @@ This dataset was taken from Kaggle.
 
 **Visualization**
 - heatmaps for correlations
-- scatterplots , barplot,pairplot, histplot
+- scatterplots, barplot, pairplot, histplot
 
 ---
 
