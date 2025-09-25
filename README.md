@@ -23,7 +23,7 @@ This dataset was taken from Kaggle.
 - KNeighborsClassifier
 - LogisticRegression
 - XGBoost
-  
+
 ---
 
 **Result**
@@ -36,7 +36,7 @@ This dataset was taken from Kaggle.
 [[66 0]
 [ 2 42]]
 - These results indicate that the model has high accuracy and reliably distinguishes between benign and malignant categories. The high recall value further confirms the model's sensitivity in detecting disease cases.And this result indicates that the model is highly reliable for integration into medical practice.
-- I found that : the size measurements in sick people are higher compared to those who are not sick
+- I found that with visualization : the size measurements in sick people are higher compared to those who are not sick
 
 ---
 
